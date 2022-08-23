@@ -1,0 +1,15 @@
+
+#gameDiv {
+    font-family: cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(184, 147, 147);
+    text-align: center;
+}
+#playerText {
+    color: blue;
+}
+#computerText {
+    color: red;
+}
